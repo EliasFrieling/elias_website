@@ -3,7 +3,7 @@ import './style.css'
 function MainContent() {
   return (
     <main className="main_content">
-      I like to do things
+      This website is currently under construction
     </main>
   )
 }
